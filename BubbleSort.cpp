@@ -7,19 +7,19 @@ using namespace std;
  * Author:linlulu
 */
 void Bubble(int*);//Statement of Bubble function
-int main() {
-    int arr[10] = { 0 };
-    for (int i = 0; i < 10; i++) {//Initial the arr[10]
-        cin >> arr[i];
-    }
-    Bubble(arr);
-    cout << "The 10 integer number sorted from low to high are ";
-    for (int j = 0; j < 10; j++) {
-        cout << arr[j] << " ";
-    }
-   // system("pause");
-    return 0;
-}
+//int main() {
+//    int arr[10] = { 0 };
+//    for (int i = 0; i < 10; i++) {//Initial the arr[10]
+//        cin >> arr[i];
+//    }
+//    Bubble(arr);
+//    cout << "The 10 integer number sorted from low to high are ";
+//    for (int j = 0; j < 10; j++) {
+//        cout << arr[j] << " ";
+//    }
+//   // system("pause");
+//    return 0;
+//}
 /**
  * Define the function of Bubble Sort
 */
