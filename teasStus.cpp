@@ -14,7 +14,7 @@ using namespace std;
 
 typedef struct Student {
 	string sName;
-	int score;//这里为了简化程序将学生成绩都设为了整数
+	int score =0;//这里为了简化程序将学生成绩都设为了整数
 }Student;
 //define Teacher
 typedef struct Teacher {
