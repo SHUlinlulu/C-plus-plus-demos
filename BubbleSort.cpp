@@ -17,7 +17,7 @@ int main() {
     for (int j = 0; j < 10; j++) {
         cout << arr[j] << " ";
     }
-    system("pause");
+   // system("pause");
     return 0;
 }
 /**
