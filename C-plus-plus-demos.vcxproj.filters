@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BubbleSort.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ConstTest.cpp">
+    <ClCompile Include="MultiArrayTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
