@@ -28,7 +28,7 @@ void Bubble(int* p) {
     for (i = 0; i < 10; i++)
         for (j = 0; j < 10 - i; j++) {
             if (*(p + j) > *(p + j + 1)) {
-                Swap(int, *(p + j), *(p + j + 1));
+                Swap(int, *(p + j), *(p + j + 1));//Add a comment line 
             }
         }
 }
