@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StructDemo.cpp">
+    <ClCompile Include="ContactManaSystem.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
