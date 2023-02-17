@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testReference.cpp">
+    <ClCompile Include="testFunctionOverride.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
