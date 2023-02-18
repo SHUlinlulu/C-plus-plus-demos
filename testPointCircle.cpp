@@ -4,6 +4,7 @@
 using namespace std;
 /*
 * Function:To testify that if the point is in||out||on the circle using ".cpp&&.h"file
+* Create a new branch called "c-plus-plus-core" and checkout that branch to test the function and usage
 * Author:linlulu
 */
 
