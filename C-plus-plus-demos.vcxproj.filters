@@ -15,21 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="point.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="circle.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="point.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="circle.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="testPointCircle.cpp">
+    <ClCompile Include="testStructClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

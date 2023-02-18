@@ -19,13 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circle.h" />
-    <ClInclude Include="point.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="circle.cpp" />
-    <ClCompile Include="point.cpp" />
-    <ClCompile Include="testPointCircle.cpp" />
+    <ClCompile Include="testStructClass.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
